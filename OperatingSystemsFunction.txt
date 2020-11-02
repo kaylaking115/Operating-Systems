@@ -1,2 +1,3 @@
+Mac OS powers every Mac and works seamlessly with other Mac, iPhone, and Apple devices. It works specifically with its hardware and the hardware works specifically with Mac OS. It is built with privacy and security first.
 Another OS with many functions is Windows 10. One of the main functions of this OS is the continued improvement to Cortana. Cortana is an AI assistant which helps user open applications, search the computer for files, and search the web from text and voice commands. 
 The last major OS with arguably the most functions is Linux. Linux has many functions and one of which is being an open sources OS. This means users are free to learn about the underlying codes, make changes to them, and redistribute the software for free. 
